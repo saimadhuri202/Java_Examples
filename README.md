@@ -1,2 +1,2 @@
 # Java_Examples
-This repository contains the basic beginner mini project files in java.
+This repository contains beginner Java practice programs and mini projects for reference and learning purposes.
